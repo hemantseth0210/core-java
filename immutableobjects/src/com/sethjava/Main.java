@@ -6,6 +6,6 @@ public class Main {
         Currency currency = Currency.of("USD");
         Money money = new Money(234.45, currency);
         System.out.println(money);
-        
+
     }
 }
