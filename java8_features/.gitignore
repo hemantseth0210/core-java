@@ -59,6 +59,7 @@ local.properties
 *.ids
 *.orig
 out
+.sonarlint/
 
 ######################
 # Visual Studio Code
