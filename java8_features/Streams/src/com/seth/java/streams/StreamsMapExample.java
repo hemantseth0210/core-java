@@ -1,7 +1,7 @@
-package com.seth.streams;
+package com.seth.java.streams;
 
-import com.seth.streams.data.Student;
-import com.seth.streams.data.StudentDataBase;
+import com.seth.java.data.Student;
+import com.seth.java.data.StudentDataBase;
 
 public class StreamsMapExample {
 

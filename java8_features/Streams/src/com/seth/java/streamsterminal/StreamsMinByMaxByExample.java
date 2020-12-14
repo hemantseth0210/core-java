@@ -1,11 +1,11 @@
-package com.seth.streams_terminal;
+package com.seth.java.streamsterminal;
 
 import java.util.Comparator;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import com.seth.streams.data.Student;
-import com.seth.streams.data.StudentDataBase;
+import com.seth.java.data.Student;
+import com.seth.java.data.StudentDataBase;
 
 public class StreamsMinByMaxByExample {
 

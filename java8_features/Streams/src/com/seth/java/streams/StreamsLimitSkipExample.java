@@ -1,4 +1,4 @@
-package com.seth.streams;
+package com.seth.java.streams;
 
 import java.util.Arrays;
 import java.util.List;

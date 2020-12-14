@@ -1,11 +1,11 @@
-package com.seth.streams;
+package com.seth.java.streams;
 
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import com.seth.streams.data.Student;
-import com.seth.streams.data.StudentDataBase;
+import com.seth.java.data.Student;
+import com.seth.java.data.StudentDataBase;
 
 public class StreamsComparatorExample {
 

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.seth.streams;
+package com.seth.java.streams;
 
 import java.util.Random;
 import java.util.function.Supplier;

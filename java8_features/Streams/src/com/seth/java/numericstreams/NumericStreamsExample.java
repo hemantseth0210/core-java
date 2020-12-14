@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.seth.numericstreams;
+package com.seth.java.numericstreams;
 
 import java.util.Arrays;
 import java.util.List;

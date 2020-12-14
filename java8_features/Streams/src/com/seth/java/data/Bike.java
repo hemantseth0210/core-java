@@ -1,4 +1,4 @@
-package com.seth.streams.data;
+package com.seth.java.data;
 
 public class Bike {
 
